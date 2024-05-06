@@ -69,27 +69,4 @@ sections:
         image:
           src: /images/corgi.jpg
           alt: Corgi
-  - type: featuredItems
-    heading: This Is The Headline
-    body: This is the description
-    items:
-      - heading: Item Title
-        body: Item text.
-        image:
-          type: image
-          src: /images/corgi.jpg
-          alt: Corgi
-      - heading: Item Title
-        body: Item text.
-        image:
-          type: image
-          src: /images/corgi.jpg
-          alt: Corgi
-      - heading: Item Title
-        body: Item text.
-        image:
-          type: image
-          src: /images/corgi.jpg
-          alt: Corgi
-    background: light
 ---
