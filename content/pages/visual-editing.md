@@ -34,7 +34,7 @@ sections:
       src: /images/corgi-author.jpg
       alt: Corgi
   - type: featuredItems
-    background: primary
+    background: light
     heading: Our programs
     body: >
       From Puppy Basics to Advanced Agility: Training Programs Tailored for
