@@ -3,7 +3,7 @@ type: page
 title: Visual Editing
 sections:
   - type: hero
-    heading: 'Shape a Happier, Healthier Dog'
+    heading: 'Shape a Happier, Healthier Dog 🐶'
     body: >
       Discover the joy of learning together with our expert-led training
       programs designed for dogs of all ages and breeds. Whether you're looking
