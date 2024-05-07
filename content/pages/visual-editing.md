@@ -1,6 +1,6 @@
 ---
 type: page
-title: Visual Editing Example
+title: Visual Editing
 sections:
   - type: hero
     heading: 'Shape a Happier, Healthier Dog'
